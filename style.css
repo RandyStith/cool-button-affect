@@ -35,7 +35,7 @@ body {
     display: block;
     width: 0px;
     height: 0px;
-    background-color: #ff0a54;
+    background-image: linear-gradient(to right, rgb(186, 255, 25), rgb(226, 80, 255));
     position: absolute;
     border-radius: 50%;
     transform: translate(-50%, -50%);
